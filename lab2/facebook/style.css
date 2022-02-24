@@ -1,0 +1,115 @@
+*{
+    font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    margin: 0;
+    background-color: #f0f2f5;
+    
+    
+}
+
+.center {
+    width: 60%;
+    float: left;
+    margin-top: 190px;
+    
+
+}
+
+.middle{  
+    float: right;
+    width: 40%;
+    margin-top: 130px;
+    font-size: 20px;
+
+}
+.info{
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    padding: 20px 3px  28px;
+    margin-bottom: 5px;
+}
+
+#name{
+    color: #1877f2;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 980px;
+    margin: 0 auto;
+    height: 800px;    
+}
+
+#text{
+    font-size: 27px;
+}
+
+#button{
+    background-color: #42b72a;
+    font-size: 17px;
+    border-radius: 6px;
+    color: #ffffff;
+    width: 170px;
+    border: none;
+    padding: 10px;
+    margin-left: 110px;
+    margin-top: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    height: 50px;
+}
+
+#submit{
+    background-color: #1877f2;
+    font-size: 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 372px;
+    border: none;
+    padding: 10px;
+    align-items: center;
+    margin: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.input{
+    background-color: #ffffff;
+    font-size: 17px;
+    color: #353535;
+    border-radius: 5px;
+    border: 1px solid rgb(235, 235, 235);
+    width: 350px;
+    padding: 10px;
+    margin: 8px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+#forgot{
+    font-size: 14px;
+    margin-left: 140px;
+    color: #1877f2;
+    
+}
+
+#newpage{
+    color:black;
+    font-weight: bold;
+}
+
+#star{
+    font-size: 14px;
+    text-align: center;
+}
+
+.down{
+    padding-top: 20px;
+}
+

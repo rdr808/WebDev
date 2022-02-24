@@ -1,0 +1,146 @@
+body {
+    background-color: #fafafa;
+    font-family:apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+#i {
+    width: 180px;
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+
+}
+#pro {
+    width: 360px;
+    height: 560px;
+}
+
+.left {
+    margin-left: 380px;
+    margin-top:50px;
+    float: left;
+}
+
+.right {
+    margin-top:65px;
+    float: right;
+    margin-right: 400px;
+}
+
+
+
+
+.down {
+    position: absolute;
+    bottom: 0px;
+}
+#insta {
+    margin-left: 650px;
+}
+#submit{
+    background-color: #0095f6;
+    font-size: 15px;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 255px;
+    border: none;
+    align-items: center;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 5px;
+    opacity: 0.6;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+#submit:hover {opacity: 1}
+#mobile, #password{
+    background-color: #fafafa;
+    font-size: 12px;
+    color: #252525;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 3px;
+    width: 250px;
+    height: 37px;
+    margin: 3px;
+    margin-left: 40px;
+}
+.upper {
+    background-color: #fff;
+    border: 1px solid rgb(226, 226, 226);
+    box-sizing: border-box;
+    padding: 20px 3px  30px;
+    width: 350px;
+    height: 375px;
+}
+
+.downer {
+    width: 350px;
+    margin-top: 10px;
+    background-color:  white;
+    border: 1px solid rgb(235, 235, 235);
+    height: 60px;
+}
+.downer p{
+    margin-top: 20px;
+    margin-left: 24px;
+    font-size: 14px;
+}
+
+#ll {
+    text-decoration: none;
+    color:#52acf7;
+}
+
+#or{
+    font-size: small;
+    margin-left: 40px;
+    padding: 5px;
+    color: rgb(192, 192, 192);
+}
+.button{
+    margin-left: 75px;
+    border: none;
+    background-color: #fff;
+    color: #385185;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.button-icon{
+    width: 17px;
+    margin-right: 10px;
+}
+
+#forgot{
+    font-size: small;
+    text-decoration: none;
+    margin-left: 120px;
+    color: #385185;
+}
+
+.get p{
+    margin-left: 90px;
+    font-size: 14px;
+}
+
+#google, #apple{
+    width: 135px;
+    height: 40px;
+    margin-right: 7px;
+}
+
+#apple{
+    margin-left: 38px;
+}
+
+.down p{
+    margin-left: 650px;
+    color: #c7c7c7;
+    font-size: small;
+}
