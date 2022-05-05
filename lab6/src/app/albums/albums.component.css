@@ -1,0 +1,18 @@
+.albums{
+  display:flex;
+  justify-content: space-between;
+  margin-top:10px;
+}
+h2{
+  display:flex;
+  justify-content: center;
+}
+#DelBut{
+  color:black;
+  background:red;
+  margin-right: 5px;
+}
+.albD{
+  border-style:solid;
+
+}
